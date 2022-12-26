@@ -8,7 +8,7 @@ const inter = Inter({ subsets: ['latin'] })
 export default function Home() {
   return (
     <>
-        <p>Edwin Simanalagi</p>
+        <p>Edwin Simanalagi new</p>
     </>
   )
 }
